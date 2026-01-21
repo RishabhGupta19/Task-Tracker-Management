@@ -688,9 +688,10 @@ For larger scale:
 ##  Author
 
 **Your Name**
-* GitHub: [@yourusername](https://github.com/yourusername)
-* LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-* Email: your.email@example.com
+* GitHub: [Rishabh Gupta](https://github.com/RishabhGupta19/Task-Tracker-Management)
+* LinkedIn: [Rishabh Gupta](https://www.linkedin.com/in/rishabh-gupta-b8832b311/)
+* Email: rishabh134we@gmail.com
+* Portfolio : www.rishabhs.xyz
 
 
 
