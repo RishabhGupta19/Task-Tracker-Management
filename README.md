@@ -521,17 +521,9 @@ GET /api/tasks/?status=in_progress&title=api
 
 ##  Testing
 
-### Run All Tests
-```bash
-# Run Django test suite
-python manage.py test
+## I have used Postman for testing the api endpoints
 
-# Run with verbose output
-python manage.py test --verbosity=2
 
-# Run specific test file
-python manage.py test tasks.tests
-```
 
 ### Manual API Testing
 
